@@ -1,4 +1,4 @@
-# mortal-combat учебный проект от GloAcademy
+# Mortal-Combat учебный проект от GloAcademy
 ## повторила проект Лилия Толстых
 ### Технология:
 -html
