@@ -4,5 +4,5 @@
 -html
 -css
 -normalizer
--fancy-box(jquery)
--jquery
+-fancy-box(JQuery)
+-JQuery
